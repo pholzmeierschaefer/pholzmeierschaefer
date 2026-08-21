@@ -8,7 +8,7 @@ Olá! Me chamo Pedro Henrique, tenho 19 anos.
 
 <!-- Badges de Redes e Estatísticas -->
 
-<a href="(https://www.instagram.com/pholzmeier/)" target="_blank">
+<a href="https://www.instagram.com/pholzmeier/" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
