@@ -1,16 +1,31 @@
-## Hi there 👋
+# Pedro Henrique Holzmeier Schaefer
 
-<!--
-**pholzmeierschaefer/pholzmeierschaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`🎓 Universitário | Estudante de Ciência da Computação`
 
-Here are some ideas to get you started:
+Olá! Me chamo Pedro Henrique, tenho 19 anos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<!-- Badges de Redes e Estatísticas -->
+<a href="LINK_DO_SEU_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<img src="https://img.shields.io/github/stars/SEU_USER?style=for-the-badge&label=ESTRELAS&color=008080" />
+<img src="https://img.shields.io/github/followers/SEU_USER?style=for-the-badge&label=SEGUIDORES&color=24292e" />
+
+---
+
+### Linguagens e Tecnologias
+
+<div display="inline-block">
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
