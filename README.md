@@ -7,14 +7,11 @@ Olá! Me chamo Pedro Henrique, tenho 19 anos.
 ---
 
 <!-- Badges de Redes e Estatísticas -->
-<a href="LINK_DO_SEU_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="LINK_DO_SEU_INSTAGRAM" target="_blank">
+
+<a href="(https://www.instagram.com/pholzmeier/)" target="_blank">
   <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<img src="https://img.shields.io/github/stars/SEU_USER?style=for-the-badge&label=ESTRELAS&color=008080" />
-<img src="https://img.shields.io/github/followers/SEU_USER?style=for-the-badge&label=SEGUIDORES&color=24292e" />
+
 
 ---
 
