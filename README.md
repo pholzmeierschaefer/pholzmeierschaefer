@@ -4,7 +4,7 @@
 ### Estudante de Ciência da Computação
 
 <p>
-  Entusiasta em desenvolvimento de software e infraestrutura, focado na construção de sistemas eficientes e arquiteturas sólidas.
+  Estudante de Ciência da Computação na UFFS Chapecó, entusiasta em desenvolvimento de software e infraestrutura.
 </p>
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-### Conecte-se comigo
+
 
 <p>
   <a href="https://www.linkedin.com/in/pedroschaefer/">
