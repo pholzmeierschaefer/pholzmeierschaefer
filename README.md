@@ -1,39 +1,85 @@
-# Pedro Henrique Holzmeier Schaefer
+<div align="center">
 
-`🎓 Universitário | Estudante de Ciência da Computação`
+<!-- Banner com Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Pedro!;Estudante+de+Ciência+da+Computação;Entusiasta+em+Tecnologia" alt="Typing SVG" />
 
-Olá! Me chamo Pedro Henrique, tenho 19 anos, sou natural de Itapiranga/SC e atualmente resido em Chapecó.
+<br/>
 
-🎓 Estudante de **Ciência da Computação (UFFS - Campus Chapecó)**  
-💻 Entusiasta do desenvolvimento de software e computação, sempre focado em aprender novas tecnologias, aprimorar boas práticas de código e desenvolver projetos eficientes.
+### Sobre Mim
+Sou **Pedro Henrique Holzmeier Schaefer**, estudante de Ciência da Computação na UFFS em Chapecó. 
+Tenho um forte interesse no ecossistema de desenvolvimento e infraestrutura, sempre buscando construir soluções eficientes, diretas e minimalistas.
 
----
-
-<!-- Badges de Redes e Estatísticas -->
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pedroschaefer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/pholzmeier" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
 </div>
 
+<br/>
+
+<div align="center">
+
+### 🛠️ Tecnologias
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Conquistas no GitHub
+[![Trophies](https://github-profile-trophy.vercel.app/?username=pholzmeierschaefer&theme=darkhub&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 Estatísticas
+
+<img src="https://github-readme-stats.vercel.app/api?username=pholzmeierschaefer&show_icons=true&theme=dark&hide_border=true&bg_color=000000" alt="GitHub Stats" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pholzmeierschaefer&layout=compact&theme=dark&hide_border=true&bg_color=000000" alt="Top Languages" height="190"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pholzmeierschaefer&theme=dark&hide_border=true&background=000000" alt="GitHub Streak" />
+
+<br/><br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pholzmeierschaefer&theme=github-dark&hide_border=true&bg_color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribuições
+<!-- Nota: O gráfico da cobrinha (Snake) requer a configuração de uma GitHub Action no repositório com o seu nome para gerar o arquivo .svg -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pholzmeierschaefer/pholzmeierschaefer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pholzmeierschaefer/pholzmeierschaefer/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/pholzmeierschaefer/pholzmeierschaefer/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔗 Contato
+
+<a href="https://www.linkedin.com/in/pedroschaefer/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/pholzmeier/"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
+<br/><br/>
+
 ---
-
-### Linguagens e Tecnologias
-
-
-### 🌐 
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 💻 
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### ⚙️ 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<p align="center">
+  <i>Desenvolvido por Pedro Henrique Holzmeier Schaefer</i>
+</p>
+</div>
