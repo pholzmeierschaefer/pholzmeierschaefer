@@ -1,10 +1,10 @@
 <div align="center">
 
 # Pedro Henrique Holzmeier Schaefer
-### Estudante de Ciência da Computação
+### Estudante de Ciência da Computação UFFS Chapecó
 
 <p>
-  Estudante de Ciência da Computação na UFFS Chapecó, entusiasta em desenvolvimento de software e infraestrutura.
+  Entusiasta em desenvolvimento de software e infraestrutura.
 </p>
 
 ---
